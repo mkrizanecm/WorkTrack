@@ -1,0 +1,6 @@
+.bottom-form
+{
+    float: none;
+    display: table-cell;
+    vertical-align: bottom;
+}
